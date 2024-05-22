@@ -22,15 +22,16 @@ You can modify the slot configurations as you wish in the "ModAuthor.ReservedObj
 
 ---
 
-
 ### Other configs
-
 
 If you wish to configure other modpack options, here are the main useful configurations:
 
 - "me.loaforc.facilitymeltdown.cfg" if you find the Facility Meltdown mechanics too difficult or too easy.
 - "FlipMods.HotbarPlus.cfg" if you want more or fewer inventory slots
 
+### reporting bugs
+
+If you encounter bugs, you can report them on the GitHub (link at the top left of the header). This will allow me to fix them.
 
 </details>
 
@@ -65,6 +66,10 @@ Si vous souhaitez configurer d'autres options du modpack, voici les principales 
 - "FlipMods.HotbarPlus.cfg" si vous voulez plus ou moins de slots d'inventaire
 
 ---
+
+### signaler des bugs
+
+Si vous rencontrez des bugs, vous pouvez les signaler sur le GitHub (lien en haut à gauche de l'entête), ou sur le Discord (lien ci-dessous). Cela me permettrait de les corriger.
 
 ### Rejoignez le serveur discord!
 [![Discord](https://cdn.discordapp.com/attachments/1240384583472775340/1240390481376973022/Discord_Logo_256.png?ex=66466328&is=664511a8&hm=0f3ababfbfb71f34267894340e3e83540d49758f04780d1ca95f6cb7f13d1aa1&)](https://discord.gg/cfDT9kYpWt)
