@@ -29,3 +29,7 @@
 ## v1.0.5
 - CORRECT - correct error with image not loading in README.md
 - UPD - Giant_Extension_Ladders v2.3.2 -> v3.0.0
+---
+
+## v1.0.6
+- Just little image correction

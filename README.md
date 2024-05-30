@@ -16,7 +16,7 @@ Then, on the site, click on 'Install with Mod Manager' or, in r2modman, click on
 
 ### The modpack includes 5 additional custom slots, which are explained in the photo below.
 
-![Imgur](https://i.imgur.com/cU94jAn.png)
+![Imgur](https://i.imgur.com/SkAbxm5.png)
 
 You can modify the slot configurations as you wish in the "ModAuthor.ReservedObjectName.cfg" files.
 
@@ -50,7 +50,7 @@ Puis, sur le site, cliquez sur 'Install with Mod Manager' ou, dans r2modman, cli
 
 ### Le modpack comprend 5 slots supplémentaires personnalisés, qui sont expliqués sur la photo ci-dessous.
 
-![Imgur](https://i.imgur.com/cU94jAn.png)
+![Imgur](https://i.imgur.com/SkAbxm5.png)
 
 Vous pouvez modifier les configurations des slots comme vous le souhaitez dans les fichiers "AuteurDuMod.ReservedNomDeLObjet.cfg".
 
