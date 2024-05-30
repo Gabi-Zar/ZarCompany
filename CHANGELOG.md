@@ -24,3 +24,8 @@
 - UPD - TooManyEmotes v2.1.17 -> v2.1.18
 - UPD - LethalLib v0.15.1 -> v0.16.0
 - CHANGE - chance inventory slot position of utility belt
+---
+
+## v1.0.5
+- CORRECT - correct error with image not loading in README.md
+- UPD - Giant_Extension_Ladders v2.3.2 -> v3.0.0

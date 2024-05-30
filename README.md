@@ -16,7 +16,7 @@ Then, on the site, click on 'Install with Mod Manager' or, in r2modman, click on
 
 ### The modpack includes 5 additional custom slots, which are explained in the photo below.
 
-![ReservedSlot](https://cdn.discordapp.com/attachments/1240384583472775340/1245085843916455946/reservedslot.png?ex=6657780d&is=6656268d&hm=46b5706014e4332d4a1c6b73a4ac8582ce2012372089109554ea3e423c08d7d4&)
+![Imgur](https://i.imgur.com/cU94jAn.png)
 
 You can modify the slot configurations as you wish in the "ModAuthor.ReservedObjectName.cfg" files.
 
@@ -50,7 +50,7 @@ Puis, sur le site, cliquez sur 'Install with Mod Manager' ou, dans r2modman, cli
 
 ### Le modpack comprend 5 slots supplémentaires personnalisés, qui sont expliqués sur la photo ci-dessous.
 
-![ReservedSlot](https://cdn.discordapp.com/attachments/1240384583472775340/1245085843916455946/reservedslot.png?ex=6657780d&is=6656268d&hm=46b5706014e4332d4a1c6b73a4ac8582ce2012372089109554ea3e423c08d7d4&)
+![Imgur](https://i.imgur.com/cU94jAn.png)
 
 Vous pouvez modifier les configurations des slots comme vous le souhaitez dans les fichiers "AuteurDuMod.ReservedNomDeLObjet.cfg".
 
@@ -70,6 +70,6 @@ Si vous souhaitez configurer d'autres options du modpack, voici les principales 
 Si vous rencontrez des bugs, vous pouvez les signaler sur le GitHub (lien en haut à gauche de l'entête), ou sur le Discord (lien ci-dessous). Cela me permettrait de les corriger.
 
 ### Rejoignez le serveur discord!
-[![Discord](https://cdn.discordapp.com/attachments/1240384583472775340/1240390481376973022/Discord_Logo_256.png?ex=6652e968&is=665197e8&hm=094ee3ac45ed259f1ce81e8ce82e4d112cc0be97a323cc66d4d88858720c71f9&)](https://discord.gg/cfDT9kYpWt)
+[![Imgur](https://i.imgur.com/7XUKRV9.png)](https://discord.gg/cfDT9kYpWt)
 
 </details>
