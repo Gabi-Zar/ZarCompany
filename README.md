@@ -28,6 +28,14 @@ If you wish to configure other modpack options, here are the main useful configu
 
 - "me.loaforc.facilitymeltdown.cfg" if you find the Facility Meltdown mechanics too difficult or too easy.
 - "FlipMods.HotbarPlus.cfg" if you want more or fewer inventory slots
+---
+
+### Known bugs
+
+Here is the list of currently known bugs. Bugs are sorted by rarity (ALWAYS, COMMON, RARE, EPIC, LEGEND) from least to most rare, where ALWAYS means they happen all the time.
+
+- ALWAYS - Healing in the ship when you have less than 20 HP does not remove the 'critical' effect.
+---
 
 ### reporting bugs
 
@@ -65,6 +73,12 @@ Si vous souhaitez configurer d'autres options du modpack, voici les principales 
 
 ---
 
+### Bugs connus
+
+Voici la liste des bugs actuellement connus. Les bugs sont triés selon une liste de rareté (ALWAYS, COMMUN, RARE, EPIC, LEGEND) du moins rare au plus rare, où ALWAYS signifie qu'ils se produisent tout le temps.
+
+- ALWAYS - Se soigner dans le ship quand on a moins de 20 PV n'enlève pas l'effet 'critical'
+---
 ### signaler des bugs
 
 Si vous rencontrez des bugs, vous pouvez les signaler sur le GitHub (lien en haut à gauche de l'entête), ou sur le Discord (lien ci-dessous). Cela me permettrait de les corriger.
